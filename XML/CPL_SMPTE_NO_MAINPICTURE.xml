@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/429-7/2006/CPL">
+    <Id>urn:uuid:1121ff51-d1dd-4953-837c-6676655f351a</Id>
+    <AnnotationText>BBB-3D-SMPTE_TST-3D-1_S_EN-EN_INT-G_51_2K_UPG_20110712_DSPL_OV</AnnotationText>
+    <IssueDate>2011-07-12T12:11:44+00:00</IssueDate>
+    <Issuer>UPG</Issuer>
+    <Creator>OpenCinemaTools - 1.1.2 (MMLIB v0.1.4)</Creator>
+    <ContentTitleText>BBB-3D-SMPTE_TST-3D-1_S_EN-EN_INT-G_51_2K_UPG_20110712_DSPL_OV</ContentTitleText>
+    <ContentKind>test</ContentKind>
+    <ContentVersion>
+        <Id>urn:uuid:1ba80150-18a8-472a-815d-b5b6f2119c6c</Id>
+        <LabelText>1ba80150-18a8-472a-815d-b5b6f2119c6c</LabelText>
+    </ContentVersion>
+    <RatingList>
+        <Rating>
+            <Agency>UNIPG</Agency>
+            <Label>G</Label>
+        </Rating>
+    </RatingList>
+    <ReelList>
+        <Reel>
+            <Id>urn:uuid:57ca6dde-7315-4d73-be76-9533c62a8dbf</Id>
+            <AssetList>
+                <MainSound>
+                    <Id>urn:uuid:df0ab588-a0dd-4d1f-a2a2-39d1d9f73010</Id>
+                    <EditRate>24 1</EditRate>
+                    <IntrinsicDuration>240</IntrinsicDuration>
+                    <EntryPoint>0</EntryPoint>
+                    <Duration>240</Duration>
+                </MainSound>
+            </AssetList>
+        </Reel>
+    </ReelList>
+</CompositionPlaylist>

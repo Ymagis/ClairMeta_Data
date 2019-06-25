@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+    <Id>urn:uuid:3413599d-fed7-4d89-87a2-7c5e0929da5f</Id>
+    <AnnotationText>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV</AnnotationText>
+    <IssueDate>2018-01-04T11:14:22-00:00</IssueDate>
+    <Issuer>ECLAIR</Issuer>
+    <Creator>ClipsterDCI 5.10.0.5</Creator>
+    <ContentTitleText>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV</ContentTitleText>
+    <ContentKind>test</ContentKind>
+    <RatingList/>
+    <ReelList>
+        <Reel>
+            <Id>urn:uuid:5bd75ded-e6f7-4971-8772-4b988d38d31a</Id>
+            <AssetList>
+                <MainPicture>
+                    <Id>urn:uuid:dbeb8634-07b5-401a-acbf-a225fd33034f</Id>
+                    <EditRate>24 1</EditRate>
+                    <IntrinsicDuration>24</IntrinsicDuration>
+                    <EntryPoint>0</EntryPoint>
+                    <Duration>24</Duration>
+                    <Hash>f/L/9z0U4Mqsi2YvTsCyhrHenQU=</Hash>
+                    <FrameRate>24 1</FrameRate>
+                    <ScreenAspectRatio>2.39</ScreenAspectRatio>
+                </MainPicture>
+                <!-- <MainSound>
+                    <Id>urn:uuid:9d9955ae-2e96-4e59-bf4a-1ecc3f1b3032</Id>
+                    <EditRate>24 1</EditRate>
+                    <IntrinsicDuration>24</IntrinsicDuration>
+                    <EntryPoint>0</EntryPoint>
+                    <Duration>24</Duration>
+                    <Hash>HkBfVBICXMq6bPN5SncysuNR9ug=</Hash>
+                    <Language>en</Language>
+                </MainSound> -->
+            </AssetList>
+        </Reel>
+    </ReelList>
+</CompositionPlaylist>

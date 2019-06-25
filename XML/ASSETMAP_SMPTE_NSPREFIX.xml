@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<am:AssetMap xmlns:am="http://www.smpte-ra.org/schemas/429-9/2007/AM">
+    <am:Id>urn:uuid:9f5c4181-01ff-4cfa-ac16-9233fb9a367d</am:Id>
+    <am:Creator>Version Digital</am:Creator>
+    <am:VolumeCount>1</am:VolumeCount>
+    <am:IssueDate>2017-12-20T16:20:20-00:00</am:IssueDate>
+    <am:Issuer>ECLAIR</am:Issuer>
+    <am:AssetList>
+        <am:Asset>
+            <am:Id>urn:uuid:9f5c4181-01ff-4cfa-ac16-9233fb9a367d</am:Id>
+            <am:ChunkList>
+                <am:Chunk>
+                    <am:Path>pcm.mxf</am:Path>
+                    <am:VolumeIndex>1</am:VolumeIndex>
+                    <am:Offset>0</am:Offset>
+                    <am:Length>9430180558</am:Length>
+                </am:Chunk>
+            </am:ChunkList>
+        </am:Asset>
+        <am:Asset>
+            <am:Id>urn:uuid:9f5c4181-01ff-4cfa-ac16-9233fb9a367d</am:Id>
+            <am:ChunkList>
+                <am:Chunk>
+                    <am:Path>j2c.mxf</am:Path>
+                    <am:VolumeIndex>1</am:VolumeIndex>
+                    <am:Offset>0</am:Offset>
+                    <am:Length>330812592476</am:Length>
+                </am:Chunk>
+            </am:ChunkList>
+        </am:Asset>
+        <am:Asset>
+            <am:Id>urn:uuid:9f5c4181-01ff-4cfa-ac16-9233fb9a367d</am:Id>
+            <am:ChunkList>
+                <am:Chunk>
+                    <am:Path>cpl.xml</am:Path>
+                    <am:VolumeIndex>1</am:VolumeIndex>
+                    <am:Offset>0</am:Offset>
+                    <am:Length>11022</am:Length>
+                </am:Chunk>
+            </am:ChunkList>
+        </am:Asset>
+        <am:Asset>
+            <am:Id>urn:uuid:9f5c4181-01ff-4cfa-ac16-9233fb9a367d</am:Id>
+            <am:PackingList>true</am:PackingList>
+            <am:ChunkList>
+                <am:Chunk>
+                    <am:Path>pkl.xml</am:Path>
+                    <am:VolumeIndex>1</am:VolumeIndex>
+                    <am:Offset>0</am:Offset>
+                    <am:Length>10742</am:Length>
+                </am:Chunk>
+            </am:ChunkList>
+        </am:Asset>
+    </am:AssetList>
+</am:AssetMap>
+<!--Created by Fraunhofer IIS easyDCP Creator Version 2.2.0-->

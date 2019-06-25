@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/429-7/2006/CPL">
+  <Id>urn:uuid:4230d597-e339-4444-a678-f0992b52eba2</Id>
+  <AnnotationText>ECL-SINGLE-CPL_TST-3D-48_S_EN-XX_UK-U_71-ATMOS_2K_DI_20160614_ECL_SMPTE-TYPE-B-3D_OV</AnnotationText>
+  <IssueDate>2016-06-22T04:14:58-08:00</IssueDate>
+  <Issuer>ECL-LONDON</Issuer>
+  <Creator>TOMI</Creator>
+  <ContentTitleText>ECL-SINGLE-CPL_TST-3D-48_S_EN-XX_UK-U_71-ATMOS_2K_DI_20160614_ECL_SMPTE-TYPE-B-3D_OV</ContentTitleText>
+  <ContentKind>test</ContentKind>
+  <ContentVersion>
+  <Id>urn:uuid:4230d597-e339-4444-a678-f0992b52eba3</Id>
+  <LabelText>ECL-SINGLE-CPL_TST-3D-48_S_EN-XX_UK-U_71-ATMOS_2K_DI_20160614_ECL_SMPTE-TYPE-B-3D_OV</LabelText>
+  </ContentVersion>
+  <RatingList/>
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:4d0a69ca-8b1a-4980-81e7-144183123fa0</Id>
+      <AnnotationText>Reel 1</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:5a85ca73-f672-49b7-9c9c-17b32485a961</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>vm7cTPVECofgtb68iy6IaA/gKr0=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:0ce47c35-beb9-45db-9b2a-8689bcc9e32d</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>nFVwhfhc3UzPR+xDJtmSiYvQlU8=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+<CompositionMetadataAsset xmlns:cpl="http://www.smpte-ra.org/schemas/429-7/2006/CPL" xmlns="http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata" xmlns:meta="http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata">
+  <cpl:Id>urn:uuid:213b45f9-d921-4e4f-b543-87cc7d7abc3f</cpl:Id>
+  <cpl:EditRate>48 1</cpl:EditRate>
+  <cpl:IntrinsicDuration>816</cpl:IntrinsicDuration>
+  <FullContentTitleText>ECL-SINGLE-CPL_TST-3D-48_S_EN-XX_UK-U_71-ATMOS_2K_DI_20160614_ECL_SMPTE-TYPE-B-3D_OV</FullContentTitleText>
+  <ReleaseTerritory>us</ReleaseTerritory>
+  <VersionNumber status="temp">1</VersionNumber>
+  <Distributor>Disney</Distributor>
+  <Facility>YMA (YMAGIS)</Facility>
+  <Luminance units="candela-per-square-metre">4</Luminance>
+  <MainSoundConfiguration>71/L,R,C,LFE,Ls,Rs,Rls,Rrs,HI,VI-N</MainSoundConfiguration>
+  <MainSoundSampleRate>48000 1</MainSoundSampleRate>
+  <MainPictureStoredArea>
+    <Width>2048</Width>
+    <Height>858</Height>
+  </MainPictureStoredArea>
+  <MainPictureActiveArea>
+    <Width>2048</Width>
+    <Height>858</Height>
+  </MainPictureActiveArea>
+  <ExtensionMetadataList>
+    <ExtensionMetadata scope="TEST-TYPE-B">
+      <Name>TOM</Name>
+      <PropertyList>
+        <Property>
+          <Name>TYPE-B</Name>
+          <Value>100k</Value>
+        </Property>
+      </PropertyList>
+    </ExtensionMetadata>
+  </ExtensionMetadataList>
+</CompositionMetadataAsset>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:6b3b9ef5-38cd-4553-8c1b-9d9fa68f52e9</Id>
+      <AnnotationText>Reel 2</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:ca2448de-b40b-4d31-b092-0eec8720ab1e</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>bBrUmJi2W0M9ERn+SOnBLh8fs+I=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>816</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:58d3ff99-26ca-4a1c-8a57-c69b0daef46a</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>ins4XTuIaWCYj2Oz74TTCfUVrbk=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:8a93e463-bbec-4e8c-80b2-1024b7c720d4</Id>
+      <AnnotationText>Reel 3</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:b042175d-c3a4-44ba-b061-d90303705114</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>IMrnHSpllVtYZrkazeOTjCYhULY=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>1632</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:73be4bdb-7de9-4eec-86b3-22fe45ada1da</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>XnIDhTq3OuxFbuXLrc4illjERzg=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:41373c56-b78a-4d5e-a755-971e4bbce985</Id>
+      <AnnotationText>Reel 4</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:d7e20034-36a1-455c-ad78-6fc804847e68</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>Mom6GmxS6iSJ2t84uAcz17HWQkQ=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>2448</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:e6804f27-1efb-494d-83d0-77143c7f3945</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>2o8eSj9GUz/ajhBUqJhE3x/Eh0Q=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:57a97b27-9071-419e-8f7f-23e853f6318d</Id>
+      <AnnotationText>Reel 5</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:132c4910-5a21-47d6-84c7-ad89fe7eaaa0</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>EwIa+BIgXd+aKsIWFxqVYEAOlZc=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>3264</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:48933f55-4072-4e0c-a699-eacf88a2bc73</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>Q4Tjd3SDDbM90Frcvfu4FTk916Q=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:840c1149-8e24-44a9-914d-5a4f1b7589bb</Id>
+      <AnnotationText>Reel 6</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:02e191eb-96aa-4845-8c40-f075b931594b</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>KvjjyZcHKvOS2DJ927HFl1gs/p4=</Hash>
+        </MainSound>
+        <axd:AuxData xmlns:axd="http://www.dolby.com/schemas/2012/AD">
+          <Id>urn:uuid:1cabcd77-6a56-49a0-aed4-e4f3845bb2db</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>8160</IntrinsicDuration>
+          <EntryPoint>4080</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>9pN9OS6Bm7F1AVYX8rXk7EynlHE=</Hash>
+          <axd:DataType>urn:smpte:ul:060e2b34.04010105.0e090604.00000000</axd:DataType>
+        </axd:AuxData>
+        <msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2007/Main-Stereo-Picture-CPL">
+          <Id>urn:uuid:4be8d9d2-2679-45cb-8481-8d8fdeb6343f</Id>
+          <EditRate>48 1</EditRate>
+          <IntrinsicDuration>816</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>816</Duration>
+          <Hash>vYFn9+j8jtiXnpt6aGuOmbCFQJY=</Hash>
+          <FrameRate>96 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+  </ReelList>
+  <Signer xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <ds:X509Data>
+      <ds:X509IssuerSerial>
+        <ds:X509IssuerName>dnQualifier=F6aQqbH2NVZy/\+cdsCIEK/EciJY=,CN=.US1.DCS.CINEASSET.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+        <ds:X509SerialNumber>3346518668994909089</ds:X509SerialNumber>
+      </ds:X509IssuerSerial>
+      <ds:X509SubjectName>dnQualifier=pCAQ8VPq3Kr55WgOgVe4Uqxtr1w=,CN=CS.CineAsset-2929942.DC.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509SubjectName>
+    </ds:X509Data>
+  </Signer>
+  <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <ds:SignedInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+      <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+      <ds:Reference URI="">
+        <ds:Transforms>
+          <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+        </ds:Transforms>
+        <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <ds:DigestValue>2PBAgmXpWlzMGvM3/9K+okFJGzo=</ds:DigestValue>
+      </ds:Reference>
+    </ds:SignedInfo>
+    <ds:SignatureValue>CPjSHsvEn+LHXnN9NB9oHvwuo4fqaDE3jd3/O5AOF9v78/Iz
+cuy5MCspoNeLYB/rVziZjqTeM3GifJgd5u+PvYhbiBwR8tWaB4po33LxD3dIJBikpEd24JpZ
+F4k9weaYohdk4bL+YFkvGsh7IAUBsXws2JQ8jqx3CBoi9hEmW9rchWAxXfNnbJeFdSIz9jXz
+JlrnQa+gNX6SKdYRLlaeAamKMhOQuvHJopqXoP+ERuRkIC3lpofsPGgzNI6D2ZV9MH6RW5S3
+bJG5uFyhyrs4Mwf0ZoKC9z9SY6d1pbm5f9rQFdhLAZvW38BuQADbeXwGFytDMpmwYUn+xPJU
+VGlLag==</ds:SignatureValue>
+    <ds:KeyInfo>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=F6aQqbH2NVZy/\+cdsCIEK/EciJY=,CN=.US1.DCS.CINEASSET.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>3346518668994909089</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEmjCCA4KgAwIBAgIILnE4/7Onk6EwDQYJKoZIhvcNAQEL
+BQAwgY0xITAfBgNVBAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9S
+RU1JTEFCUy5DT00xJTAjBgNVBAMTHC5VUzEuRENTLkNJTkVBU1NFVC5EQzIuU01QVEUxJTAjBgNV
+BC4THEY2YVFxYkgyTlZaeS8rY2RzQ0lFSy9FY2lKWT0wHhcNMDcwMTAxMDAwMDAwWhcNMjUxMjMx
+MjM1OTU5WjCBkjEhMB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFE
+Qy5ET1JFTUlMQUJTLkNPTTEqMCgGA1UEAxMhQ1MuQ2luZUFzc2V0LTI5Mjk5NDIuREMuREMyLlNN
+UFRFMSUwIwYDVQQuExxwQ0FROFZQcTNLcjU1V2dPZ1ZlNFVxeHRyMXc9MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAvz7CK9C3dQH+POZasbG9s9i5zfLJhjm1zRws43CLlSz278/NSjb7
+Owt523y7fy7cHUqhMghh8VLgbO5lzvWaX1D/zJvTdreWMmv/h5ZFlobFXUFK92oUCqZUgUDVVoOg
+22ac6bxH78ryiPRpe4PuJ365tqhHh+cJ5GsDAk9ZTFxT4O9lzDXo4hz7mRU4CGkjDdTrPaMr7Ggj
+sWipsJqUOG7jNtiM6HtSwzMdd8KOuwfRpHQlnG1hqCl8+dQ4igcx+1Jsa8NHJNhAfZDCjtjgJ2Pv
+cDILAaWZBVVmsSXs1DjkCjqFv7XDCJhZeztWiw7th4nZzVMur7II296jAQH4JQIDAQABo4H2MIHz
+MAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgSwMB0GA1UdDgQWBBSkIBDxU+rcqvnlaA6BV7hSrG2v
+XDCBtgYDVR0jBIGuMIGrgBQXppCpsfY1VnL/5x2wIgQr8RyIlqGBj6SBjDCBiTEhMB8GA1UEChMY
+REMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJTLkNPTTEhMB8G
+A1UEAxMYLkRDUy5DSU5FQVNTRVQuREMyLlNNUFRFMSUwIwYDVQQuExxBcERvSVRBYlRvRVdxbXNC
+ZjJ2aTBDcWhnUkE9ggECMA0GCSqGSIb3DQEBCwUAA4IBAQCq7oVouwH4whgwk9zjZTRoIF3aiPFG
+lNvsk5DKG57x/Aw1PyNvHI5vldZmjFbUQYq8rdyP5Z2xloCI40coSOVq3HbF/2khiKjdTXJICBox
+7GD5QQPWA3vT8QACU7rsRLyiaCrPL47XloPg9KlPr8EI4Oeowfg8Towg9L+4oKx3qbbDyyqYT36i
+OR9S7ieVk0zTY2mqfaAj5jzIZLzwANdWGOLTOyfHTKpWTeCYZttwsyji0x4//dKQFxbDsacQ9O5/
+ocYZYrJFzNJdmmDaivzFb4DApnELFjn9MudcuY0X1O8Ei1ylU4/FHlEX5DzL7nb+3vvCznD21ofc
+c7p3Jzfc</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=ApDoITAbToEWqmsBf2vi0CqhgRA=,CN=.DCS.CINEASSET.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>2</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEjTCCA3WgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBiTEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEhMB8GA1UEAxMYLkRDUy5DSU5FQVNTRVQuREMyLlNNUFRFMSUwIwYDVQQuExxBcERvSVRB
+YlRvRVdxbXNCZjJ2aTBDcWhnUkE9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgY0x
+ITAfBgNVBAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFC
+Uy5DT00xJTAjBgNVBAMTHC5VUzEuRENTLkNJTkVBU1NFVC5EQzIuU01QVEUxJTAjBgNVBC4THEY2
+YVFxYkgyTlZaeS8rY2RzQ0lFSy9FY2lKWT0wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCzcWxTicCIIQFM0Er7MRW2ZUsn1vlOVLJKqIyGrzF/L5HWiDHgo48gYWxEf8qJ9u8eEmS9D+rf
+G5axKNylDErkp4ic3RPhAtsDKIj7w1GyTI4AmSC81Db/dFHXaCC2Iop+XiHG03hwNE9DQoSq9FZm
+TPsad2rJlGYVwTJTiBkFK8+GMNdioYFlS9hHUviOZ1J/+OwHbsMgpQu9+HEFumtu17RaMZmNQEGU
+H5SW2YC0e4qX9bSkx6tgRXGM+accI0KfAOdpUUp8S6kLcFp7y5SufNLRpyfwg9yV1pCySg0JODEc
+c0kZhO2cs50xo3Qekf/Msx1Gpz2ALEJdYkDdXyJhAgMBAAGjgfkwgfYwEwYDVR0TAQH/BAkwBwEB
+/wICAOwwCwYDVR0PBAQDAgEGMB0GA1UdDgQWBBQXppCpsfY1VnL/5x2wIgQr8RyIljCBsgYDVR0j
+BIGqMIGngBQCkOghMBtOgRaqawF/a+LQKqGBEKGBi6SBiDCBhTEhMB8GA1UEChMYREMyLlNNUFRF
+LkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJTLkNPTTEdMBsGA1UEAxMULkNJ
+TkVBU1NFVC5EQzIuU01QVEUxJTAjBgNVBC4THG5NMTE1Kzh1Vks2Q3lDbTJOQ01qQmdSb0Rsbz2C
+AQIwDQYJKoZIhvcNAQELBQADggEBAIG1Zt9iCXVK4x4jZ65xVtApGV6jYpqTbJSaR4cBRoucoaSP
+RfqvZrl54I374Rv7Kn6PYXh9odwEr5NXvspKbhhCCgB1OrMMeWEUdS7zcxlpL9ZNd8BrYZqqcUFt
+pyCHbJkNHJyz39/rTdfAy6YdtPJhG1lM0+68D0gR+Wsm6JE9LK3BWJHpqjada6ftsNRkTOwpYIMd
+PzQsW29ducVAiGAd6+YXNZgIwmcJAvVHG99FHUJEjnTKfT1n3w6YGauPSAYwXa1yygxS0bcGdcJz
+IzxC7gBiUO8iqQVKGRKrnJszv6nLln6DYKO/Zl/BEqVSfnJ4aaev3SWPKhVEShHgm1w=</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=nM115\+8uVK6CyCm2NCMjBgRoDlo=,CN=.CINEASSET.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>2</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEhDCCA2ygAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBhTEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEdMBsGA1UEAxMULkNJTkVBU1NFVC5EQzIuU01QVEUxJTAjBgNVBC4THG5NMTE1Kzh1Vks2
+Q3lDbTJOQ01qQmdSb0Rsbz0wHhcNMDcwMTAxMDAwMDAwWhcNMjUxMjMxMjM1OTU5WjCBiTEhMB8G
+A1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJTLkNP
+TTEhMB8GA1UEAxMYLkRDUy5DSU5FQVNTRVQuREMyLlNNUFRFMSUwIwYDVQQuExxBcERvSVRBYlRv
+RVdxbXNCZjJ2aTBDcWhnUkE9MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3M8cJ78v
+DJtvXg4iVXohHUQqOAhRK1g9JWfiZN08kW/6KNDDDkB9DKhfp3NBIDgtTDi7yiqoELArOkp1A59r
+JkzD2wF2sQzJ2aVBwYVlqQwYNmvQLWEfYpmD88Out8bTmRGQCkqtSxzKSE2KAEI3YVUf8HQ2i+cI
+Jf7yIgDMEaLMaahpv4SsVy3UNkgrhBesJqIsEGboR4AxOXFS0dARfagYhEyQnlP7hMr11PyxU/c7
+pLR3zdGbOMe/aKb50fd+W42UIxTWiQONjKWRJ6edtKPm7U9jnqBVVfU0JEEfXMgGvpXFVSFyrTkw
+Qq7XmXrWAg94uNiozEfzAuLGnKu0QQIDAQABo4H4MIH1MBMGA1UdEwEB/wQJMAcBAf8CAgDtMAsG
+A1UdDwQEAwIBBjAdBgNVHQ4EFgQUApDoITAbToEWqmsBf2vi0CqhgRAwgbEGA1UdIwSBqTCBpoAU
+nM115+8uVK6CyCm2NCMjBgRoDlqhgYqkgYcwgYQxITAfBgNVBAoTGERDMi5TTVBURS5ET1JFTUlM
+QUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00xHDAaBgNVBAMTEy5QUk9EVUNUUy5E
+QzIuU01QVEUxJTAjBgNVBC4THHBrQ0I5ajVLckFqbmRoY0JrYzNmT2RmTC9CUT2CAQcwDQYJKoZI
+hvcNAQELBQADggEBAEtyIwsYhb3bg84cbthnXzZzq7d7HUfi6xD7/DjAEH2TCPjsVMVe69Q3kaFB
+gqhoehCw2xQ0UWTZpp3qVZ0ZLjk0e8wxuucHyCKPwAkN3X729PIc0oXQiwz65EPMU1doVhdhPp/y
+nms09cRxUCwKYQjYjzo26TZIe377WiJbsV2Ol7ZUeKk3xea0J8XS1BwWyqepquSOaYGITm7aRlzy
+l1Ia1DJdUi502EVCHHWy0Bo3mdVoq7iILN4ZnDWU1DVL8GvcthqZiSXkfdHsULiz8aLdQOXntKEF
+RUFQpl/7bhxgB0voaUlBx9Dzbfk/0YRz+cmG/aa/WP68KBomd98QSE0=</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=pkCB9j5KrAjndhcBkc3fOdfL/BQ=,CN=.PRODUCTS.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>7</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEezCCA2OgAwIBAgIBBzANBgkqhkiG9w0BAQsFADCBhDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEcMBoGA1UEAxMTLlBST0RVQ1RTLkRDMi5TTVBURTElMCMGA1UELhMccGtDQjlqNUtyQWpu
+ZGhjQmtjM2ZPZGZML0JRPTAeFw0wNzAxMDEwMDAwMDBaFw0yNTEyMzEyMzU5NTlaMIGFMSEwHwYD
+VQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNVBAsTEURDLkRPUkVNSUxBQlMuQ09N
+MR0wGwYDVQQDExQuQ0lORUFTU0VULkRDMi5TTVBURTElMCMGA1UELhMcbk0xMTUrOHVWSzZDeUNt
+Mk5DTWpCZ1JvRGxvPTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOQRWQ+KlEUP85S7
+ZQsciQOVd+E3GHSC1B7aSGo0mh43eYZBwtUuASvoJPsPbaJqpVT992pBmJffNBQemnawAxNsOoNy
+kcITBQcc4otmtyLRa7C2/mPIjJfKtaAygZQUqK96BQDJO9hgS0+w9YlrfSTPd3UXe0+gQRMxPy0x
++UAUoVMGw9nwQs7MH1e4byVuwZEBg9aLWVBez7Qu9A0STdc+ztiZbYVsgO9TCZvn2TFliR2dkps4
+PLO9sDa3e4dGcXpWFcXCHfEcG/23m2Qv14e50mMMboqNucOG2JLDp6HHJk2Kn8F3SxoMCggoNsOJ
+hsHpAjBiSKMe4oribUKoPgUCAwEAAaOB9DCB8TATBgNVHRMBAf8ECTAHAQH/AgIA7jALBgNVHQ8E
+BAMCAQYwHQYDVR0OBBYEFJzNdefvLlSugsgptjQjIwYEaA5aMIGtBgNVHSMEgaUwgaKAFKZAgfY+
+SqwI53YXAZHN3znXy/wUoYGGpIGDMIGAMSEwHwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5D
+T00xGjAYBgNVBAsTEURDLkRPUkVNSUxBQlMuQ09NMRgwFgYDVQQDEw8uUk9PVC5EQzIuU01QVEUx
+JTAjBgNVBC4THGEvd1VJSEx1Rlc3UktYcE5RR21ROTY2eE92OD2CAQIwDQYJKoZIhvcNAQELBQAD
+ggEBAIo6XE9B+z8WBENUnuRM1mxDFEgq/f3e1p4MPF3Xppty/pfel1ZuuzaxvMAF+alOnp3ywbw+
+3iYJp/OAwVq0P4MJWuF+rOc0R8oGlxQxpdY9yR/dPCBwELzmk28e5+tM+YRdBGetwnr53wxaaG6W
+E8KneE5owGJJB1Daif7bo9AbSgBpjJFcVFDW0Ksueg8L0qL9Cr1TH+8UZd4bCTlu1z0W2jh/wPg2
+pohBhC9BEdGaK+JKDdfsGUtYiNesMud7GIZmy2NNfDQ5yF/DT8FyTV64vy/kF2k5eokNQifTwRVA
+HQrf2lmquBaybA0qSANoFcfeEOTNa3mbLXiKJ8wwAqU=</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=a/wUIHLuFW7RKXpNQGmQ966xOv8=,CN=.ROOT.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>2</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEdjCCA16gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBgDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYDVQQuExxhL3dVSUhMdUZXN1JLWHBO
+UUdtUTk2NnhPdjg9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgYQxITAfBgNVBAoT
+GERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00xHDAa
+BgNVBAMTEy5QUk9EVUNUUy5EQzIuU01QVEUxJTAjBgNVBC4THHBrQ0I5ajVLckFqbmRoY0JrYzNm
+T2RmTC9CUT0wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTXmBvZYW1jYsr8GaPzJeD
+zeWN+Vus/RDVdaWQ9hLXKw2nLjNFNX+RYB76QiugCGUwBZ71kOL0RQ6kSAkz9FBQGYca9sh2imTc
+pEuw/qjbHxClO7DNyd0af5oYtZdopBBy71ksrUWOIFeKgfa1C3iLKJWVeTDZll4s78Xzo0hdQVwF
+oFyVRiQRkyr2urj0euMMcykBD5KD+hjKNpxZukzxu8VKKBSJwjifL4SsmV+zsTDJH/nRaySnhLCB
+L+aO7MF6d4DF+ANKcD5LX6CQW3NIqPHhdPFC+lAol2/6sPBkbnFEfbWiHbDHS34LJaWaLkqJ3tt/
+/ETe6FZe761vkeUbAgMBAAGjgfQwgfEwEwYDVR0TAQH/BAkwBwEB/wICAO8wCwYDVR0PBAQDAgEG
+MB0GA1UdDgQWBBSmQIH2PkqsCOd2FwGRzd8518v8FDCBrQYDVR0jBIGlMIGigBRr/BQgcu4VbtEp
+ek1AaZD3rrE6/6GBhqSBgzCBgDEhMB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRow
+GAYDVQQLExFEQy5ET1JFTUlMQUJTLkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYD
+VQQuExxhL3dVSUhMdUZXN1JLWHBOUUdtUTk2NnhPdjg9ggEBMA0GCSqGSIb3DQEBCwUAA4IBAQCd
+sDTq1a3Q96o8ShsyKmEKVUCNnX6ez5XcVg5LXb8QJxXzLD+ffbf15Jj201iElpPQCNU9QHNOOoR9
+IoObGZBOLi5ekMhfpfffcpwkwmq3nmb3h6WPLU7PAxLYcE3nNZdbv5QocblNs3e4Ecc3nK2bIS0K
+9/e+75UT6wfOCWWCF+AHQt+1Uej6G2f2yZJ5aWqeOv3mqXEtWV8W/iiUEhz6pONdb8Vs0Bhn6FMa
+jjTkpSVaC/w7W38htkG0Nk9T5Lf/TdIQHjoALB12suLTZymj8hq53PVxIN+aa0cboVE0PEtwYI5J
+tIY/GaHgNIVKoTRvgq7YXTVnvGqgolL1zwDx</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=a/wUIHLuFW7RKXpNQGmQ966xOv8=,CN=.ROOT.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>1</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEcjCCA1qgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBgDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYDVQQuExxhL3dVSUhMdUZXN1JLWHBO
+UUdtUTk2NnhPdjg9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgYAxITAfBgNVBAoT
+GERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00xGDAW
+BgNVBAMTDy5ST09ULkRDMi5TTVBURTElMCMGA1UELhMcYS93VUlITHVGVzdSS1hwTlFHbVE5NjZ4
+T3Y4PTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ/xde0jhq2qV0aBlsyv8Cl4vH1+
+RRiAl7DyBwKFk0riupyj+/8naVxcWG0Mx9zkWNyDJKowhMqMAMzNzssphxJoFGTOSVDM+WDlS3JZ
+BEgdIrvyTjERWMea32nC3uUu8I6JdEhuiUZBHb2FmQBVsp6S3ss9m0iV5zo/zf3Ev2J0j7mDxcp3
+Q68zcpmIeik48qpgtfez+svz2tX9eI1mYZW77v9oQiMRZXMGlaiwNlXp3FqkBjAD6MTEWGInEp6b
+OtjksVXwZPbFlHlke+wK1wlWMB0wPFAwGsTfeUbTlaaonSHz0JAf0MORYW49cIbInKJffdrZMRBR
+tPmsmNDvlIMCAwEAAaOB9DCB8TATBgNVHRMBAf8ECTAHAQH/AgIA8DALBgNVHQ8EBAMCAQYwHQYD
+VR0OBBYEFGv8FCBy7hVu0Sl6TUBpkPeusTr/MIGtBgNVHSMEgaUwgaKAFGv8FCBy7hVu0Sl6TUBp
+kPeusTr/oYGGpIGDMIGAMSEwHwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNV
+BAsTEURDLkRPUkVNSUxBQlMuQ09NMRgwFgYDVQQDEw8uUk9PVC5EQzIuU01QVEUxJTAjBgNVBC4T
+HGEvd1VJSEx1Rlc3UktYcE5RR21ROTY2eE92OD2CAQEwDQYJKoZIhvcNAQELBQADggEBAH+n8SDy
+Hs9JItFnOOgdxKY9/d8iZUJh5GFWdDpInaW6XRoz5dV6vdXPGAiQwvZuKDniWgg4yhrBbesp4RU4
+64p2jzL+YUqnUPews7ZT+u2YVbSfh+fO011kSHZLdzTkdA8BWQCVM0e0rCVLRZMw4VPQpwYmnkeM
+gheqKfNSyGKiafhuKGqTnqDrr/74/gIq8ZGl/doidoF/DBiiQlYR7eqlMCsTDam+C9E2cpwBN3A1
+5yeuD8d+foFVYVmIR71pHFrJ6tRzuRDwqWdVNQa6/kk3pS1Lut7AWpmNirjIhKWJgDW57KlDGIsw
+Bw/YZzykpHYmuzBxLriBb5TYsWziILI=</ds:X509Certificate>
+        </ds:X509Data>
+    </ds:KeyInfo>
+  </ds:Signature>
+</CompositionPlaylist>
+<!--  Generated by CineAsset Version 7.3.3 -->

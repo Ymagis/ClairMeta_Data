@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/429-7/2006/CPL">
+<Id>urn:uuid:5458ac09-cc19-4d71-aa6e-29fc0848c2e5</Id>
+<AnnotationText>ECL42SingleCPL_TST-3D-48-600_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE-3D_OV</AnnotationText>
+<IssueDate>2018-03-02T15:20:41-00:00</IssueDate>
+<Issuer>ECLAIR</Issuer>
+<Creator>ClipsterDCI 5.10.0.14</Creator>
+<ContentTitleText>ECL42SingleCPL_TST-3D-48-600_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE-3D_OV</ContentTitleText>
+<ContentKind>test</ContentKind>
+<ContentVersion><Id>urn:uuid:9efa1b7d-dc87-4017-be9c-61916f609b24</Id><LabelText>ECL42SingleCPL_TST-3D-48-600_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE-3D_OV</LabelText></ContentVersion>
+<RatingList/>
+<ReelList>
+<Reel>
+<Id>urn:uuid:8a8a1935-7cf0-478d-9580-10d981ba3933</Id>
+<AssetList>
+<MainSound>
+<Id>urn:uuid:526a5dda-a172-4306-9ada-2e562717c314</Id>
+<EditRate>48 1</EditRate>
+<IntrinsicDuration>48</IntrinsicDuration>
+<EntryPoint>0</EntryPoint>
+<Duration>48</Duration>
+<Hash>ChTOPoIFW+FRQ1miZ7EaDX2WgOc=</Hash>
+<Language>en</Language></MainSound>
+<msp-cpl:MainStereoscopicPicture xmlns:msp-cpl="http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL">
+<Id>urn:uuid:4458637e-e4ca-45c7-9232-51546532b65f</Id>
+<EditRate>48 1</EditRate>
+<IntrinsicDuration>48</IntrinsicDuration>
+<EntryPoint>0</EntryPoint>
+<Duration>48</Duration>
+<Hash>xvlh6JZTG/wozkcpm6JXcddWA20=</Hash>
+<FrameRate>96 1</FrameRate>
+<ScreenAspectRatio>1998 1080</ScreenAspectRatio></msp-cpl:MainStereoscopicPicture></AssetList></Reel></ReelList>
+<Signer xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>dnQualifier=vV59D4u5w9rnFOyDPugA9tpTE7Y=,OU=.Signature.DC.CA.DVS,O=.DC.CA.DVS,CN=.ClipsterDCI.Signature</ds:X509IssuerName>
+<ds:X509SerialNumber>149120007</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+</ds:X509Data></Signer><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rXc9n77PxcU6MW0xtNIp7gfR2rU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>NwGJb+XQLoXvzktUvmvAeK40Fpwq83Dq2Ydi1sMwo2F7CZYSwPCvKhSJzYZdpCJR
+Mo9tg9xE6qzvr9cqb+/8PSfZqmkP+V4vIaIT5aSs/v4IHoAEWaMzQYS9Fol+dvst
+Jw7hV51tJMHNHKIcCrOWjZl0HhzWr5w2B2ACh7++PtQTdcmhy4HWn3yEAHELvlMY
+M7AoFHS6OxjAV8LV76NPOf63C6ZOLIxPZveoSQsEBnBGICZiBZc9iPVV/0DdDQwK
+tDgGPN5A3r1atixP3tVgaMQ5UpkDEAq67XKcln1qIB2czmdJbSjeGDYW/FsAd77N
+o3QdOS3Edax/L+DwmPkZ1Q==</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>dnQualifier=vV59D4u5w9rnFOyDPugA9tpTE7Y=,OU=.Signature.DC.CA.DVS,O=.DC.CA.DVS,CN=.ClipsterDCI.Signature</ds:X509IssuerName>
+<ds:X509SerialNumber>149120007</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEUTCCAzmgAwIBAgIECONkBzANBgkqhkiG9w0BAQsFADB8MR8wHQYDVQQDExYu
+Q2xpcHN0ZXJEQ0kuU2lnbmF0dXJlMRMwEQYDVQQKEwouREMuQ0EuRFZTMR0wGwYD
+VQQLExQuU2lnbmF0dXJlLkRDLkNBLkRWUzElMCMGA1UELhMcdlY1OUQ0dTV3OXJu
+Rk95RFB1Z0E5dHBURTdZPTAeFw0xMjA4MjkwNTI0MDdaFw0yNDEyMzEyMzAwMDBa
+MIGIMSswKQYDVQQDEyJDUy5NYXN0ZXJpbmcuQ2xpcHN0ZXJEQ0kuMTQ5MTIwMDA3
+MRMwEQYDVQQKEwouREMuQ0EuRFZTMR0wGwYDVQQLExQuU2lnbmF0dXJlLkRDLkNB
+LkRWUzElMCMGA1UELhMcM1lTN2t6SDc0b1JBdEU3YXZrcVM0ZGpyZXZZPTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKk7RvJeXiE1cxMPoPnqKzVXYXKe
+J9b3DlZIdKu49gSBRs3c2qr9Kr98EfiE+upHaYxmFzKz5Ts6Y/Fe+SjRIpgm/3fE
+sojZI9ND6MPN5l/Lc+35mlnD9stB3Shx1pjuKf5WzWWs67Mgh+tJO5Gmgq0HnSjC
+vuGyCwF/QCW1+SquV/svh8nVK00VZRfuhL8ebP+mdf6Zg/el8bUwUIBuX6GO54fo
+5Igfup3Y8swnYL0jghUNs+TZN4rI4RMCGkB9o0Ht+qWjw5fRVqX/YA8thmkBF3jZ
+T8o2wD+tdLXEsM7kxhy3TqDvHMKE052tYzVsgxJ0h3KkO/No4J5V/6Q4hkMCAwEA
+AaOBzTCByjAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIFoDAdBgNVHQ4EFgQU3YS7
+kzH74oRAtE7avkqS4djrevYwgY0GA1UdIwSBhTCBgoAUvV59D4u5w9rnFOyDPugA
+9tpTE7ahZ6RlMGMxEDAOBgNVBAMTBy5zNDMwLTIxEzARBgNVBAoTCi5EQy5DQS5E
+VlMxEzARBgNVBAsTCi5EQy5DQS5EVlMxJTAjBgNVBC4THGIrVlFrODVxRlFUelVP
+U3B4RGgzbExlY3RCND2CAQUwDQYJKoZIhvcNAQELBQADggEBADWgznikxko2uk5D
+dDpgcxs7aclLVXr+PMY4kbmj5E3uZSs41zjO8CjligGxvHlnE9fvbaUHKeJMOavC
+sMnwKbNvJ3vdqJb1B6ag4PCa33CVdfAv8cFWHtEVyoAUolTl2dNxroCEOBx2DGB0
+D29BRavzccqSsqVGcL5W+dXxRomgZBHcnhQ8E8YZ9G5V3vAPwiGHRjW1sgYQaQ/m
+R9H7lT3GKLSZ/+49VO/Yq8YOW76LNsLkp+cHS1Db2sJ8eXSQmRAtPSiqjxWed2mr
+B6JUZfdLAEJ2DAPQpgKXZWaDJkB6KgBFhs+LKgQDMfJZXVxUZqzFz65/kJP1zMVb
+EIO2diA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>dnQualifier=b\+VQk85qFQTzUOSpxDh3lLectB4=,OU=.DC.CA.DVS,O=.DC.CA.DVS,CN=.s430-2</ds:X509IssuerName>
+<ds:X509SerialNumber>5</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIELjCCAxagAwIBAgIBBTANBgkqhkiG9w0BAQsFADBjMRAwDgYDVQQDEwcuczQz
+MC0yMRMwEQYDVQQKEwouREMuQ0EuRFZTMRMwEQYDVQQLEwouREMuQ0EuRFZTMSUw
+IwYDVQQuExxiK1ZRazg1cUZRVHpVT1NweERoM2xMZWN0QjQ9MB4XDTExMDkxNTA5
+NDQyMFoXDTI1MDEwMTAwMDAwMFowfDEfMB0GA1UEAxMWLkNsaXBzdGVyRENJLlNp
+Z25hdHVyZTETMBEGA1UEChMKLkRDLkNBLkRWUzEdMBsGA1UECxMULlNpZ25hdHVy
+ZS5EQy5DQS5EVlMxJTAjBgNVBC4THHZWNTlENHU1dzlybkZPeURQdWdBOXRwVEU3
+WT0wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFHUk/g6L9BHVAXJoJ
+1O0W3RXBszgjLXywGxQUDYQw+aoj5ADM/FVUEsXe9EnHd45ZJFZFUDEC5gdAuIdM
+ypQ3MJXZs3N4oRsvdbzEfoe5VrTnFPJIerNLa9bzIn/nCh/HYtIrOuq7cND25eRI
+2QGanUxtVkgv3bKWKUZVIDs4Zuk8oVRFIAyHQ3fz9yEwsVqj5mKyHkGfCy8DY72x
+pxdC1h/+M1NRE6GNtGvWLIWURE0fyoXQPiVHcLwJS8K3pjeucCMKXWYmjoXGyG8P
+QLfH2KvOBGkxhk/NW7Vxp1KjHl4k7loUU7et9aE/FgU3JhgYqLj0AA1gD+U0wpC/
+xJtxAgMBAAGjgdMwgdAwEgYDVR0TAQH/BAgwBgEB/wIBAjALBgNVHQ8EBAMCAgQw
+HQYDVR0OBBYEFL1efQ+LucPa5xTsgz7oAPbaUxO2MIGNBgNVHSMEgYUwgYKAFG/l
+UJPOahUE81DkqcQ4d5S3nLQeoWekZTBjMRAwDgYDVQQDEwcuczQzMC0yMRMwEQYD
+VQQKEwouREMuQ0EuRFZTMRMwEQYDVQQLEwouREMuQ0EuRFZTMSUwIwYDVQQuExxi
+K1ZRazg1cUZRVHpVT1NweERoM2xMZWN0QjQ9ggEBMA0GCSqGSIb3DQEBCwUAA4IB
+AQARZI6i7fGpVeyNSDOvEi/B6R/ToTjm1ZUfPawP6VrrKgiCcysrtsy/BhjBFMW9
+p83s1I2PUHANrqt5AywtKO0/NIB5iYh99UD4BKmXFqYiT23/5iXEYenQlF0nQPs+
+Ux7URsO6p1TTEXW5DEbbjBR1ZRXGwvSEgWI59rqfdLFy7Fp0PO2QmbYMTEPJGiDC
+IJUVgw5Rtkq84MT9pjrXpfwNWHcC7au8sZT+czceTIczUMFbGbm0WrxOC6sPVaq8
+YwU65vYWIvtbG2aX+2jOCTrfLgC+nm9mTqjCuXVPWZV8YFNI3gGq5OXXAdt69pOK
+NGXls9cZw1u+d7Clmq55Ecw1
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>dnQualifier=b\+VQk85qFQTzUOSpxDh3lLectB4=,OU=.DC.CA.DVS,O=.DC.CA.DVS,CN=.s430-2</ds:X509IssuerName>
+<ds:X509SerialNumber>1</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEFTCCAv2gAwIBAgIBATANBgkqhkiG9w0BAQsFADBjMRAwDgYDVQQDEwcuczQz
+MC0yMRMwEQYDVQQKEwouREMuQ0EuRFZTMRMwEQYDVQQLEwouREMuQ0EuRFZTMSUw
+IwYDVQQuExxiK1ZRazg1cUZRVHpVT1NweERoM2xMZWN0QjQ9MB4XDTA3MTEwNjEy
+NDQ1M1oXDTI1MDEwMTAwMDAwMFowYzEQMA4GA1UEAxMHLnM0MzAtMjETMBEGA1UE
+ChMKLkRDLkNBLkRWUzETMBEGA1UECxMKLkRDLkNBLkRWUzElMCMGA1UELhMcYitW
+UWs4NXFGUVR6VU9TcHhEaDNsTGVjdEI0PTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKJRZOUNJ8qT1IjWKUb5dKHixJ9WxicER8zjIu9ixI/4SRjnVk5v
+M4m4Mxo4tPT74Ygo0nn3R6fcp7Wn6iG7z5NsajjgP8zJru+b3VlnoqwXpqM/bopa
+Iaj0fC2F7V8JV0bOCQSZ51Itgug8/DQnGCzrHMQTB0iG9v7RdwCnUCQjYu2tXjnN
+XZYDqEa2gCblslCLDtL61gjw91dhqtK4koTftXAJOkBslrxJgrlbJ+zqsc8FN9Dr
+GOYSJrmhdC2GP22chcs0fNNvr/6vFE26l9JbYkNL9aOFa2RGki0zcRZuxFPBAChA
+C8QSXbW0rWB7Rzn5UD4LM3i6/AguSrftpgcCAwEAAaOB0zCB0DASBgNVHRMBAf8E
+CDAGAQH/AgEDMAsGA1UdDwQEAwICBDAdBgNVHQ4EFgQUb+VQk85qFQTzUOSpxDh3
+lLectB4wgY0GA1UdIwSBhTCBgoAUb+VQk85qFQTzUOSpxDh3lLectB6hZ6RlMGMx
+EDAOBgNVBAMTBy5zNDMwLTIxEzARBgNVBAoTCi5EQy5DQS5EVlMxEzARBgNVBAsT
+Ci5EQy5DQS5EVlMxJTAjBgNVBC4THGIrVlFrODVxRlFUelVPU3B4RGgzbExlY3RC
+ND2CAQEwDQYJKoZIhvcNAQELBQADggEBACxqU7KTfzEzZDUL4sglH+vd8mNfqfnJ
+piVpoJsATZXLSdyVnDtuvYGC0g9vM+ANIfZuS8ZDETfflE8/aeDDjTZbAmfjnpsZ
+2g/QLG7RaJ6lYiQBD7X2iEceVoiMFS54O9kVZ7MblVT/CffeY//9lDBY6K1e9Z4l
+vwEUlDw9GjQgMm61I7p3Nnt5VtpANsLZq/F5KdaZNbwmS3twvFASHIYxbuJtVhu5
+0ycnMhCtu3zzsfTa5aNLkatlp9gUoqCHB8qmMukdBf5p2OOTdZ8YqcGiK3zdbV0h
+xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+</CompositionPlaylist>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/429-7/2006/CPL">
+  <Id>urn:uuid:1f97e751-e8d3-43c2-a2bd-781a4d7daf8d</Id>
+  <AnnotationText>ECL32</AnnotationText>
+  <IssueDate>2018-01-04T17:34:05+01:00</IssueDate>
+  <Issuer>Doremi Labs, Inc.</Issuer>
+  <Creator>orca_wrapping 3.8.0-0</Creator>
+  <ContentTitleText>ECL32-SINGLE-CPL-NCCRYPT_TST_S_EN-XX_UK-U_51_2K_DI_20180103_ECL_SMPTE_OV</ContentTitleText>
+  <ContentKind>test</ContentKind>
+  <ContentVersion>
+    <Id>urn:uuid:6275b482-82a9-f048-ae04-193151a013c2</Id>
+    <LabelText>ECL32</LabelText>
+  </ContentVersion>
+  <RatingList/>
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:ce057ab7-3810-496e-b561-62ff7f118cdf</Id>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:c8b89bd9-e462-4a15-b430-0ef4b2852d64</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <KeyId>urn:uuid:40625f71-5cc9-4c63-8e7b-e9d1c71d58da</KeyId>
+          <Hash>q3rNUk4b/OlqyCNfpv8JjxbFD5A=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:e71a04e5-d9df-4a9b-a08a-4cbed21aa100</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <KeyId>urn:uuid:db4489dc-cb06-40c3-9bf7-c08ff1da77f8</KeyId>
+          <Hash>jg+Caf3yJgBIwmptFQLl/M0Zk50=</Hash>
+        </MainSound>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:f9dbec98-4189-4acd-a21d-acd459d3d048</Id>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:b7f2fbd2-2f38-4cd0-b46a-8d6c8e55301e</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <Hash>SImrwMok5khthJ5i0f6n+3iCSFs=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:e71a04e5-d9df-4a9b-a08a-4cbed21aa100</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <KeyId>urn:uuid:db4489dc-cb06-40c3-9bf7-c08ff1da77f8</KeyId>
+          <Hash>jg+Caf3yJgBIwmptFQLl/M0Zk50=</Hash>
+        </MainSound>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:9d92b3c5-3b75-4657-8946-8ace62d74516</Id>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:39558864-a088-4594-ba66-f832491e1a7c</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <KeyId>urn:uuid:d389b3f1-a027-4bb2-8420-9c9da37eb517</KeyId>
+          <Hash>fa2bOntLC6C0NeGPHd8CzoyJXlE=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio>2048 858</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:78a710a3-0233-4e18-b3fb-d0e5d9cdf2c4</Id>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24</Duration>
+          <KeyId>urn:uuid:83a8e3d9-f72c-4df1-ac53-9aea69a507ea</KeyId>
+          <Hash>ZE8fRRdV68A1d6NF/mzuLzs1cY0=</Hash>
+        </MainSound>
+      </AssetList>
+    </Reel>
+  </ReelList>
+  <Signer xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <ds:X509Data>
+      <ds:X509IssuerSerial>
+        <ds:X509IssuerName>dnQualifier=\+LLvuYNO4YBJSp9Jjmlv8oippzQ=,CN=.DC.DMS.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+        <ds:X509SerialNumber>303</ds:X509SerialNumber>
+      </ds:X509IssuerSerial>
+      <ds:X509SubjectName>dnQualifier=FS5MpLan5EW\+xeLUeYQ4rtHuSSI=,CN=CS.DMSJP2K-80099.DC.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509SubjectName>
+    </ds:X509Data>
+  </Signer>
+  <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <ds:SignedInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+      <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+      <ds:Reference URI="">
+        <ds:Transforms>
+          <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+        </ds:Transforms>
+        <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <ds:DigestValue>tpH9kgjPrCOt3RmILDe9aghTG9o=</ds:DigestValue>
+      </ds:Reference>
+    </ds:SignedInfo>
+    <ds:SignatureValue>j6GPlq0s1c3J+v2R7D1wghavm6BbspU1JiemN0zQB9rIgVaR
+b8xI9W1ZoIX+DQmFTHHWmLTB9kzVUHJh95QWFxWa+5EBnxVPrIXdgYwfI5rh5oyiG56dpxAa
+s7hszA/iXIJIBS+/7k+WfeCNDJuypq1HP3+oYpEyUb0umKWmMEL1V8T6+LPgguqLFP6e1/cQ
+SehWrjLGw+BNJOnxv+mxVTrin9LnT1EqHMdx9UBzy75rZZP/YpnAPbQC4N1436IOzQT0l2Qe
+SAvilhbd38EFgUefMMaKH7qazTKQ20cNtw7tiGFWG3tOYW+Jkr1Spon5AW7UszDGai2YBJm2
+3epFGQ==</ds:SignatureValue>
+    <ds:KeyInfo>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=\+LLvuYNO4YBJSp9Jjmlv8oippzQ=,CN=.DC.DMS.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>303</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEejCCA2KgAwIBAgICAS8wDQYJKoZIhvcNAQELBQAwgYIx
+ITAfBgNVBAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFC
+Uy5DT00xGjAYBgNVBAMTES5EQy5ETVMuREMyLlNNUFRFMSUwIwYDVQQuExwrTEx2dVlOTzRZQkpT
+cDlKam1sdjhvaXBwelE9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgY4xITAfBgNV
+BAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00x
+JjAkBgNVBAMTHUNTLkRNU0pQMkstODAwOTkuREMuREMyLlNNUFRFMSUwIwYDVQQuExxGUzVNcExh
+bjVFVyt4ZUxVZVlRNHJ0SHVTU0k9MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr+qr
+1qtHw6YdZmCCtR7YP/tu0eSG00b4SUIVLrBnkE3fkudUipfLWxfeuNO5WuSk0E6o53pl3gmnEDP1
+Gjq3sOBuMXxkjdVp8fw1AT9IhIXimSGdfxsYwsUcyVgx041qkosCmAcP8vfk4hKUl76uFdQejbVI
+g4+0aLayeCsDCYCCy3zyWNBcELjf6d3AOCKK0ISHHGjKM65Y+iNMnF5cah9sDRXxByYQNFkh/uO8
+ntCytfzpMJe73haXzTkPfofr2g7diw5z+hjUPsX6+815H4U5QtzHQw0/d6n5hC9j3wTwZaNW39Td
+37lpWDhcjoixNLunFFZ/K/9p4sOaq68gvwIDAQABo4HrMIHoMAwGA1UdEwEB/wQCMAAwCwYDVR0P
+BAQDAgSwMB0GA1UdDgQWBBQVLkyktqfkRb7F4tR5hDiu0e5JIjCBqwYDVR0jBIGjMIGggBT4su+5
+g07hgElKn0mOaW/yiKmnNKGBhKSBgTB/MSEwHwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5D
+T00xGjAYBgNVBAsTEURDLkRPUkVNSUxBQlMuQ09NMRcwFQYDVQQDEw4uRE1TLkRDMi5TTVBURTEl
+MCMGA1UELhMcUlEvNTNSbXVMc2J6Z2ZQWEdsUlltSnJ1d01zPYIBAjANBgkqhkiG9w0BAQsFAAOC
+AQEAUAAqwn3IYVVdKYpmh7l++zcTdLzAOmBeGocxpNdeekvAYgK1nXuc/NBu/Cq16Fqb7JWTKNZi
+WEWiM7YYgxIsJGN6BaalarYHyUzEk8maI1PqhgV8CMTiLVE2m2zHsE68MqqJ0EgZXXQSW6tauidg
+xAjBDAtxQAAElTVGSyl8g3ytPuOIKNg8SAEKg9sS4pJgo6Puy9nma2mOf8alKAQJTR4TAaWcN6p3
+vR/7B5myrx5WPmUCKZQDJhhNwM8YwhkcXgIzCW2JNsOOkPuSY+VeiHSXrIX84d6wOkXBkmbUU2x4
+MveW/vKcVyhTD0R8sSD+1wtfRoz26PrrpLPOMG2QDg==</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=RQ/53RmuLsbzgfPXGlRYmJruwMs=,CN=.DMS.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>2</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEdjCCA16gAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MSEw
+HwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNVBAsTEURDLkRPUkVNSUxBQlMu
+Q09NMRcwFQYDVQQDEw4uRE1TLkRDMi5TTVBURTElMCMGA1UELhMcUlEvNTNSbXVMc2J6Z2ZQWEds
+UlltSnJ1d01zPTAeFw0wNzAxMDEwMDAwMDBaFw0yNTEyMzEyMzU5NTlaMIGCMSEwHwYDVQQKExhE
+QzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNVBAsTEURDLkRPUkVNSUxBQlMuQ09NMRowGAYD
+VQQDExEuREMuRE1TLkRDMi5TTVBURTElMCMGA1UELhMcK0xMdnVZTk80WUJKU3A5SmptbHY4b2lw
+cHpRPTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUyBakS7Eb79G3ZFMZ4zOOn/cZ3
+qJcck+MAMwjwV8LkK303uBv51cXYNWxalMQQ6h1iPAu6si9RR9XNLGqakHFLUfjt0eC8VJ5/YaC+
+DvVq1j9iM5/Jz+CjSqkOlrzXbX92HyMNE0hjCGa4WU6oyRCzFvPZclOI5a2LDKOxC/ngD0LomWjo
+MDP7BSkUUzqQnZ2fRuXdOgAfzWm+hBxruWcyEqSGwmV93YBnoHB2WpxVfD+Ztinnp/NJKCadiKf/
+sSQpPoqe4j97gY+Zw2DtgT6wddx97ZtCf10QASF5hXgKyCku6O7IlGLroM4TUOldrTClNjR2xSGc
+THxcxOltUQcCAwEAAaOB+DCB9TATBgNVHRMBAf8ECTAHAQH/AgIA7TALBgNVHQ8EBAMCAQYwHQYD
+VR0OBBYEFPiy77mDTuGASUqfSY5pb/KIqac0MIGxBgNVHSMEgakwgaaAFEUP+d0Zri7G84Hz1xpU
+WJia7sDLoYGKpIGHMIGEMSEwHwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNV
+BAsTEURDLkRPUkVNSUxBQlMuQ09NMRwwGgYDVQQDExMuUFJPRFVDVFMuREMyLlNNUFRFMSUwIwYD
+VQQuExxwa0NCOWo1S3JBam5kaGNCa2MzZk9kZkwvQlE9ggEEMA0GCSqGSIb3DQEBCwUAA4IBAQCd
+l6G6uFf9+waSrTQqG946Ff1t0b1ANkI6IQQo2sq15aArKjehmrCJzctBfFm3vQj1KlRBI191Mj2m
+5Oh/sxcwtG40bSzFeyGZPg9zKA2Cd8oRdw35/8ZLnP96Z/rCxoGNVJAmy9EP8jP9AT/bOk50KvZ/
+wo//VN/pscoDrDCaZVLNPAkTdsMNWy+YpV9cnzUGx73jK/iMao++GQ/SEWssBHhjxn3oHWiZi4Xt
+ykib8XQqQjyKu4c66jDwu6Ct+MVqUd7ZFPTFListIamu55RnpTXhDKkoN8fIunBsWOs9Kbqbxglx
+4zsyE0AGuj2nDstRBWLRy+5SlCByTIKp/PL/</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=pkCB9j5KrAjndhcBkc3fOdfL/BQ=,CN=.PRODUCTS.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>4</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEdDCCA1ygAwIBAgIBBDANBgkqhkiG9w0BAQsFADCBhDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEcMBoGA1UEAxMTLlBST0RVQ1RTLkRDMi5TTVBURTElMCMGA1UELhMccGtDQjlqNUtyQWpu
+ZGhjQmtjM2ZPZGZML0JRPTAeFw0wNzAxMDEwMDAwMDBaFw0yNTEyMzEyMzU5NTlaMH8xITAfBgNV
+BAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00x
+FzAVBgNVBAMTDi5ETVMuREMyLlNNUFRFMSUwIwYDVQQuExxSUS81M1JtdUxzYnpnZlBYR2xSWW1K
+cnV3TXM9MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuqXUXsGFKhmSNFaqAMHloGUp
+vTFkFlnjHwRYxUv1JhQjKmysUhyqvXRf7jnx54zsRKdvOXUw3HfGrX9R9gPODL8uVbME406OTqD1
+fhhhZ0co02TgXPpaYxkQZlgv9Ygz3pHA51+qXOaMRbPU364gTMPVgXyqljIlDKknZTXeiqp8KB1N
+iTdslrn3IajOxm3pd1Mh2kq2/FyC9qAyZJPbgdcSfm4ZWkxgvllikZ4HQGEuT+P31xmN3K7SQrpk
+3jRS1PgFHvUUnCeyQh1jtRlepy2Im4SPpWh1sY+hiR2dakqZCFNKB11wEyZOX3nCqOeDfJL60BNm
+9RKgSwPVh6SSywIDAQABo4H0MIHxMBMGA1UdEwEB/wQJMAcBAf8CAgDuMAsGA1UdDwQEAwIBBjAd
+BgNVHQ4EFgQURQ/53RmuLsbzgfPXGlRYmJruwMswga0GA1UdIwSBpTCBooAUpkCB9j5KrAjndhcB
+kc3fOdfL/BShgYakgYMwgYAxITAfBgNVBAoTGERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgG
+A1UECxMRREMuRE9SRU1JTEFCUy5DT00xGDAWBgNVBAMTDy5ST09ULkRDMi5TTVBURTElMCMGA1UE
+LhMcYS93VUlITHVGVzdSS1hwTlFHbVE5NjZ4T3Y4PYIBAjANBgkqhkiG9w0BAQsFAAOCAQEAXgI7
++4euCqODivtBpzIunWJBGr+v5jojDLFp6e3fBDznYEY6p4R4B741C7HZ6qE39vV6ZqcBmDjDi7cE
+fOa9QmC7Mj0MUM/XXrVlLvHmIRwVcOoZdxz/5JSfQkwPGyXT2MTmgGyTAqeB/NXazjR6YzCOcoqm
+CcFRgvubRscN4V5GFC2k7JdvP/s9QeU5cGBePy09sUTm54aFS9MbdQGZa+hqCoNetMvjEGhuUxpe
+twOLhXUca9KMT2ikxoA4bNc1P5Ekma8HqX0Dv/BKXtz7YTYUUN2YE12PMaqFLonjvl/mB/n9CHc/
+AAVM+A/J+q+14LJqcElnzHkvNTv2Qvp5+g==</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=a/wUIHLuFW7RKXpNQGmQ966xOv8=,CN=.ROOT.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>2</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEdjCCA16gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBgDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYDVQQuExxhL3dVSUhMdUZXN1JLWHBO
+UUdtUTk2NnhPdjg9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgYQxITAfBgNVBAoT
+GERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00xHDAa
+BgNVBAMTEy5QUk9EVUNUUy5EQzIuU01QVEUxJTAjBgNVBC4THHBrQ0I5ajVLckFqbmRoY0JrYzNm
+T2RmTC9CUT0wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTXmBvZYW1jYsr8GaPzJeD
+zeWN+Vus/RDVdaWQ9hLXKw2nLjNFNX+RYB76QiugCGUwBZ71kOL0RQ6kSAkz9FBQGYca9sh2imTc
+pEuw/qjbHxClO7DNyd0af5oYtZdopBBy71ksrUWOIFeKgfa1C3iLKJWVeTDZll4s78Xzo0hdQVwF
+oFyVRiQRkyr2urj0euMMcykBD5KD+hjKNpxZukzxu8VKKBSJwjifL4SsmV+zsTDJH/nRaySnhLCB
+L+aO7MF6d4DF+ANKcD5LX6CQW3NIqPHhdPFC+lAol2/6sPBkbnFEfbWiHbDHS34LJaWaLkqJ3tt/
+/ETe6FZe761vkeUbAgMBAAGjgfQwgfEwEwYDVR0TAQH/BAkwBwEB/wICAO8wCwYDVR0PBAQDAgEG
+MB0GA1UdDgQWBBSmQIH2PkqsCOd2FwGRzd8518v8FDCBrQYDVR0jBIGlMIGigBRr/BQgcu4VbtEp
+ek1AaZD3rrE6/6GBhqSBgzCBgDEhMB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRow
+GAYDVQQLExFEQy5ET1JFTUlMQUJTLkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYD
+VQQuExxhL3dVSUhMdUZXN1JLWHBOUUdtUTk2NnhPdjg9ggEBMA0GCSqGSIb3DQEBCwUAA4IBAQCd
+sDTq1a3Q96o8ShsyKmEKVUCNnX6ez5XcVg5LXb8QJxXzLD+ffbf15Jj201iElpPQCNU9QHNOOoR9
+IoObGZBOLi5ekMhfpfffcpwkwmq3nmb3h6WPLU7PAxLYcE3nNZdbv5QocblNs3e4Ecc3nK2bIS0K
+9/e+75UT6wfOCWWCF+AHQt+1Uej6G2f2yZJ5aWqeOv3mqXEtWV8W/iiUEhz6pONdb8Vs0Bhn6FMa
+jjTkpSVaC/w7W38htkG0Nk9T5Lf/TdIQHjoALB12suLTZymj8hq53PVxIN+aa0cboVE0PEtwYI5J
+tIY/GaHgNIVKoTRvgq7YXTVnvGqgolL1zwDx</ds:X509Certificate>
+        </ds:X509Data>
+        <ds:X509Data>
+          <ds:X509IssuerSerial>
+            <ds:X509IssuerName>dnQualifier=a/wUIHLuFW7RKXpNQGmQ966xOv8=,CN=.ROOT.DC2.SMPTE,OU=DC.DOREMILABS.COM,O=DC2.SMPTE.DOREMILABS.COM</ds:X509IssuerName>
+            <ds:X509SerialNumber>1</ds:X509SerialNumber>
+          </ds:X509IssuerSerial>
+          <ds:X509Certificate>MIIEcjCCA1qgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBgDEh
+MB8GA1UEChMYREMyLlNNUFRFLkRPUkVNSUxBQlMuQ09NMRowGAYDVQQLExFEQy5ET1JFTUlMQUJT
+LkNPTTEYMBYGA1UEAxMPLlJPT1QuREMyLlNNUFRFMSUwIwYDVQQuExxhL3dVSUhMdUZXN1JLWHBO
+UUdtUTk2NnhPdjg9MB4XDTA3MDEwMTAwMDAwMFoXDTI1MTIzMTIzNTk1OVowgYAxITAfBgNVBAoT
+GERDMi5TTVBURS5ET1JFTUlMQUJTLkNPTTEaMBgGA1UECxMRREMuRE9SRU1JTEFCUy5DT00xGDAW
+BgNVBAMTDy5ST09ULkRDMi5TTVBURTElMCMGA1UELhMcYS93VUlITHVGVzdSS1hwTlFHbVE5NjZ4
+T3Y4PTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ/xde0jhq2qV0aBlsyv8Cl4vH1+
+RRiAl7DyBwKFk0riupyj+/8naVxcWG0Mx9zkWNyDJKowhMqMAMzNzssphxJoFGTOSVDM+WDlS3JZ
+BEgdIrvyTjERWMea32nC3uUu8I6JdEhuiUZBHb2FmQBVsp6S3ss9m0iV5zo/zf3Ev2J0j7mDxcp3
+Q68zcpmIeik48qpgtfez+svz2tX9eI1mYZW77v9oQiMRZXMGlaiwNlXp3FqkBjAD6MTEWGInEp6b
+OtjksVXwZPbFlHlke+wK1wlWMB0wPFAwGsTfeUbTlaaonSHz0JAf0MORYW49cIbInKJffdrZMRBR
+tPmsmNDvlIMCAwEAAaOB9DCB8TATBgNVHRMBAf8ECTAHAQH/AgIA8DALBgNVHQ8EBAMCAQYwHQYD
+VR0OBBYEFGv8FCBy7hVu0Sl6TUBpkPeusTr/MIGtBgNVHSMEgaUwgaKAFGv8FCBy7hVu0Sl6TUBp
+kPeusTr/oYGGpIGDMIGAMSEwHwYDVQQKExhEQzIuU01QVEUuRE9SRU1JTEFCUy5DT00xGjAYBgNV
+BAsTEURDLkRPUkVNSUxBQlMuQ09NMRgwFgYDVQQDEw8uUk9PVC5EQzIuU01QVEUxJTAjBgNVBC4T
+HGEvd1VJSEx1Rlc3UktYcE5RR21ROTY2eE92OD2CAQEwDQYJKoZIhvcNAQELBQADggEBAH+n8SDy
+Hs9JItFnOOgdxKY9/d8iZUJh5GFWdDpInaW6XRoz5dV6vdXPGAiQwvZuKDniWgg4yhrBbesp4RU4
+64p2jzL+YUqnUPews7ZT+u2YVbSfh+fO011kSHZLdzTkdA8BWQCVM0e0rCVLRZMw4VPQpwYmnkeM
+gheqKfNSyGKiafhuKGqTnqDrr/74/gIq8ZGl/doidoF/DBiiQlYR7eqlMCsTDam+C9E2cpwBN3A1
+5yeuD8d+foFVYVmIR71pHFrJ6tRzuRDwqWdVNQa6/kk3pS1Lut7AWpmNirjIhKWJgDW57KlDGIsw
+Bw/YZzykpHYmuzBxLriBb5TYsWziILI=</ds:X509Certificate>
+        </ds:X509Data>
+    </ds:KeyInfo>
+  </ds:Signature>
+</CompositionPlaylist>
+<!-- Generated by orca_wrapping version 3.8.0-0 -->

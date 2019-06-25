@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><PackingList xmlns="http://www.digicine.com/PROTO-ASDCP-PKL-20040311#">
+<Id>urn:uuid:f630770e-8f36-4d78-b14a-fc5e7a854117</Id>
+<AnnotationText>ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF</AnnotationText>
+<IssueDate>2018-01-04T11:17:54-00:00</IssueDate>
+<Issuer>ECLAIR</Issuer>
+<Creator>ClipsterDCI 5.10.0.5</Creator>
+<Signer/>
+<Signature/>
+<AssetList>
+<Asset>
+<Id>urn:uuid:c79f837d-20b6-4ad9-94bb-b847821f4775</Id>
+<Hash>PzcdIeaAVghJ500sFOj3G3roFI0=</Hash>
+<Size>1745174</Size>
+<Type>application/x-smpte-mxf;asdcpKind=Sound</Type>
+<OriginalFileName>ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF_audio_06.mxf</OriginalFileName></Asset>
+<Asset>
+<Id>urn:uuid:e6634399-cc6e-4df0-9211-8f898de80d43</Id>
+<AnnotationText>ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF</AnnotationText>
+<Hash>SSZoWEzo4moF8Oq+fLHgTOZ3NUo=</Hash>
+<Size>11279</Size>
+<Type>text/xml;asdcpKind=CPL</Type>
+<OriginalFileName>CPL_ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF.xml</OriginalFileName>
+</Asset>
+</AssetList>
+</PackingList>

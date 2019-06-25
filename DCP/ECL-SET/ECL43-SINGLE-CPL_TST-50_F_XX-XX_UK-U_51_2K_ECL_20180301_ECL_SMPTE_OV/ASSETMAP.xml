@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><AssetMap xmlns="http://www.smpte-ra.org/schemas/429-9/2007/AM"><Id>urn:uuid:0020ee7e-e8e8-4bd2-ae83-7cf8464d0cd1</Id><AnnotationText>ECL43SingleCPL_TST-50_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE_OV</AnnotationText><Creator>ClipsterDCI 5.10.0.14</Creator><VolumeCount>1</VolumeCount><IssueDate>2018-03-01T14:29:25-00:00</IssueDate><Issuer>ECLAIR</Issuer>
+<AssetList>
+<Asset>
+<Id>urn:uuid:00b6f0b5-df40-49ac-8095-c749dfdf8bf1</Id>
+<ChunkList>
+<Chunk>
+<Path>ECL43SingleCPL_TST-50_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE_OV_01.mxf</Path><VolumeIndex>1</VolumeIndex>
+<Length>30806514</Length></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:35ee4680-fb46-4700-a3bd-60854520d566</Id>
+<PackingList>true</PackingList>
+<ChunkList>
+<Chunk>
+<Path>PKL_35ee4680-fb46-4700-a3bd-60854520d566.xml</Path><VolumeIndex>1</VolumeIndex></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:7bfde7b6-feb5-4c55-b644-5eb0bc42b97e</Id>
+<ChunkList>
+<Chunk>
+<Path>ECL43SingleCPL_TST-50_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE_OV_audio_01.mxf</Path><VolumeIndex>1</VolumeIndex>
+<Length>881846</Length></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:eaf4fb76-00a2-4dfa-af0b-6b22342bb501</Id>
+<ChunkList>
+<Chunk>
+<Path>CPL_ECL43SingleCPL_TST-50_F_XX-XX_UK-U_51_2K_ECL_20180301_ECL_SMPTE_OV.xml</Path><VolumeIndex>1</VolumeIndex></Chunk></ChunkList></Asset></AssetList></AssetMap>

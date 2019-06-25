@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AssetMap xmlns="http://www.smpte-ra.org/schemas/429-9/2700/AM">
+    <Id>urn:uuid:e8bd7ecd-8cf3-41e3-bbf6-3fad803c58f6</Id>
+    <AnnotationText>ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF</AnnotationText>
+    <VolumeCount>1</VolumeCount>
+    <IssueDate>2018-01-04T11:17:54-00:00</IssueDate>
+    <Issuer>ECLAIR</Issuer>
+    <Creator>ClipsterDCI 5.10.0.5</Creator>
+    <AssetList>
+        <Asset>
+            <Id>urn:uuid:c79f837d-20b6-4ad9-94bb-b847821f4775</Id>
+            <ChunkList>
+                <Chunk>
+                    <Path>ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF_audio_06.mxf</Path>
+                    <VolumeIndex>1</VolumeIndex>
+                    <Length>1745174</Length>
+                </Chunk>
+            </ChunkList>
+        </Asset>
+        <Asset>
+            <Id>urn:uuid:e6634399-cc6e-4df0-9211-8f898de80d43</Id>
+            <ChunkList>
+                <Chunk>
+                    <Path>CPL_ECL02-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_VF.xml</Path>
+                    <VolumeIndex>1</VolumeIndex>
+                </Chunk>
+            </ChunkList>
+        </Asset>
+        <Asset>
+            <Id>urn:uuid:f630770e-8f36-4d78-b14a-fc5e7a854117</Id>
+            <PackingList>true</PackingList>
+            <ChunkList>
+                <Chunk>
+                    <Path>PKL_f630770e-8f36-4d78-b14a-fc5e7a854117.xml</Path>
+                    <VolumeIndex>1</VolumeIndex>
+                </Chunk>
+            </ChunkList>
+        </Asset>
+    </AssetList>
+</AssetMap>

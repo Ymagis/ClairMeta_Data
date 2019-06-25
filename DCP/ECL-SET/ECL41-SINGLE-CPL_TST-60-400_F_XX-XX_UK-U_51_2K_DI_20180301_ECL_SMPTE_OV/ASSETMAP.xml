@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><AssetMap xmlns="http://www.smpte-ra.org/schemas/429-9/2007/AM"><Id>urn:uuid:bac2a6d3-49db-40d9-acb6-46b37e2eb00c</Id><AnnotationText>ECL41SingleCPL_TST-60-400_F_XX-XX_UK-U_51_2K_DI_20180301_ECL_SMPTE_OV</AnnotationText><Creator>ClipsterDCI 5.10.0.14</Creator><VolumeCount>1</VolumeCount><IssueDate>2018-03-01T14:31:18-00:00</IssueDate><Issuer>ECLAIR</Issuer>
+<AssetList>
+<Asset>
+<Id>urn:uuid:13358ed1-8812-4ce7-bc69-62c4842ea519</Id>
+<PackingList>true</PackingList>
+<ChunkList>
+<Chunk>
+<Path>PKL_13358ed1-8812-4ce7-bc69-62c4842ea519.xml</Path><VolumeIndex>1</VolumeIndex></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:b5d920a3-4102-4fb1-8513-58e3bd77003a</Id>
+<ChunkList>
+<Chunk>
+<Path>CPL_ECL41SingleCPL_TST-60-400_F_XX-XX_UK-U_51_2K_DI_20180301_ECL_SMPTE_OV.xml</Path><VolumeIndex>1</VolumeIndex></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:ca49063f-667f-48bd-9bd1-b5e8204e32a9</Id>
+<ChunkList>
+<Chunk>
+<Path>ECL41SingleCPL_TST-60-400_F_XX-XX_UK-U_51_2K_DI_20180301_ECL_SMPTE_OV_audio_01.mxf</Path><VolumeIndex>1</VolumeIndex>
+<Length>882046</Length></Chunk></ChunkList></Asset>
+<Asset>
+<Id>urn:uuid:ee516e65-dabc-4b6b-be1c-a1bc4cbf688b</Id>
+<ChunkList>
+<Chunk>
+<Path>ECL41SingleCPL_TST-60-400_F_XX-XX_UK-U_51_2K_DI_20180301_ECL_SMPTE_OV_01.mxf</Path><VolumeIndex>1</VolumeIndex>
+<Length>49458844</Length></Chunk></ChunkList></Asset></AssetList></AssetMap>

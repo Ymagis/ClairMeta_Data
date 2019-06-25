@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><DCSubtitle Version="1.1">
+<SubtitleID>b9b107ac-e4a4-11e7-80c1-9a214cf093ae</SubtitleID>
+<MovieTitle>Subtitles SMPTE</MovieTitle>
+<ReelNumber>4</ReelNumber>
+<Language>English</Language>
+<LoadFont Id="Font1" URI="Arial.ttf" />
+<Font Id="Font1" Color="ffffffff" Effect="border" EffectColor="ff000000" Italic="no" Script="normal" Size="42" Underlined="no" Weight="normal" AspectAdjust="1" Spacing="0em">
+<Subtitle SpotNumber="1" TimeIn="00:00:00:024" TimeOut="00:00:00:240" FadeUpTime="000" FadeDownTime="000">
+<Text HPosition="-29" VAlign="bottom" VPosition="32">Reel Subtitle 04</Text>
+</Subtitle>
+</Font>
+</DCSubtitle>
