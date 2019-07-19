@@ -282,6 +282,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_01.mxf",
                   "CPLEntryPoint": 0,
                   "CPLOutPoint": 24,
                   "Duration": 24,
@@ -347,6 +348,7 @@
                   "TimeCodeOut": "00:00:01:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_01.mxf",
                   "CPLEntryPoint": 0,
                   "CPLOutPoint": 24,
                   "Duration": 24,
@@ -396,6 +398,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_02.mxf",
                   "CPLEntryPoint": 24,
                   "CPLOutPoint": 48,
                   "Duration": 24,
@@ -461,6 +464,7 @@
                   "TimeCodeOut": "00:00:02:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_02.mxf",
                   "CPLEntryPoint": 24,
                   "CPLOutPoint": 48,
                   "Duration": 24,
@@ -510,6 +514,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_03.mxf",
                   "CPLEntryPoint": 48,
                   "CPLOutPoint": 72,
                   "Duration": 24,
@@ -575,6 +580,7 @@
                   "TimeCodeOut": "00:00:03:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_03.mxf",
                   "CPLEntryPoint": 48,
                   "CPLOutPoint": 72,
                   "Duration": 24,
@@ -624,6 +630,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_04.mxf",
                   "CPLEntryPoint": 72,
                   "CPLOutPoint": 96,
                   "Duration": 24,
@@ -689,6 +696,7 @@
                   "TimeCodeOut": "00:00:04:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_04.mxf",
                   "CPLEntryPoint": 72,
                   "CPLOutPoint": 96,
                   "Duration": 24,
@@ -738,6 +746,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_05.mxf",
                   "CPLEntryPoint": 96,
                   "CPLOutPoint": 120,
                   "Duration": 24,
@@ -803,6 +812,7 @@
                   "TimeCodeOut": "00:00:05:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_05.mxf",
                   "CPLEntryPoint": 96,
                   "CPLOutPoint": 120,
                   "Duration": 24,
@@ -852,6 +862,7 @@
               "AnnotationText": "",
               "Assets": {
                 "Picture": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_06.mxf",
                   "CPLEntryPoint": 120,
                   "CPLOutPoint": 144,
                   "Duration": 24,
@@ -917,6 +928,7 @@
                   "TimeCodeOut": "00:00:06:00"
                 },
                 "Sound": {
+                  "AbsolutePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_06.mxf",
                   "CPLEntryPoint": 120,
                   "CPLOutPoint": 144,
                   "Duration": 24,
