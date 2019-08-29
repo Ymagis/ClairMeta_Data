@@ -227,6 +227,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_01.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_01.mxf</AbsolutePath>
                   <Probe>
@@ -290,6 +291,7 @@
                   <TimeCodeIn>00:00:00:00</TimeCodeIn>
                   <TimeCodeOut>00:00:01:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_01.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_01.mxf</AbsolutePath>
                   <Probe>
@@ -343,6 +345,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_02.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_02.mxf</AbsolutePath>
                   <Probe>
@@ -406,6 +409,7 @@
                   <TimeCodeIn>00:00:01:00</TimeCodeIn>
                   <TimeCodeOut>00:00:02:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_02.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_02.mxf</AbsolutePath>
                   <Probe>
@@ -459,6 +463,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_03.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_03.mxf</AbsolutePath>
                   <Probe>
@@ -522,6 +527,7 @@
                   <TimeCodeIn>00:00:02:00</TimeCodeIn>
                   <TimeCodeOut>00:00:03:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_03.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_03.mxf</AbsolutePath>
                   <Probe>
@@ -575,6 +581,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_04.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_04.mxf</AbsolutePath>
                   <Probe>
@@ -638,6 +645,7 @@
                   <TimeCodeIn>00:00:03:00</TimeCodeIn>
                   <TimeCodeOut>00:00:04:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_04.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_04.mxf</AbsolutePath>
                   <Probe>
@@ -691,6 +699,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_05.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_05.mxf</AbsolutePath>
                   <Probe>
@@ -754,6 +763,7 @@
                   <TimeCodeIn>00:00:04:00</TimeCodeIn>
                   <TimeCodeOut>00:00:05:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_05.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_05.mxf</AbsolutePath>
                   <Probe>
@@ -807,6 +817,7 @@
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
                   <Stereoscopic>False</Stereoscopic>
                   <HighFrameRate>False</HighFrameRate>
+                  <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_06.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_06.mxf</AbsolutePath>
                   <Probe>
@@ -870,6 +881,7 @@
                   <TimeCodeIn>00:00:05:00</TimeCodeIn>
                   <TimeCodeOut>00:00:06:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
+                  <EssenceType>Sound</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_06.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_audio_06.mxf</AbsolutePath>
                   <Probe>
