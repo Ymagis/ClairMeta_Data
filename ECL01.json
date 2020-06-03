@@ -188,6 +188,7 @@
           "ChannelConfiguration": "Unknown",
           "ChannelCount": 12,
           "ChannelFormat": 0,
+          "ClosedCaptionLanguage": "Unknown",
           "ContentKind": "test",
           "ContentTitleText": "ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV",
           "Creator": "ClipsterDCI 5.10.0.5",
