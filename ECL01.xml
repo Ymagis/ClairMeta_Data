@@ -1127,11 +1127,16 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
           <ChannelConfiguration>Unknown</ChannelConfiguration>
           <SoundLanguage>en</SoundLanguage>
           <SubtitleLanguage>Unknown</SubtitleLanguage>
+          <OpenCaptionLanguage>Unknown</OpenCaptionLanguage>
+          <ClosedCaptionLanguage>Unknown</ClosedCaptionLanguage>
           <Picture>True</Picture>
           <Sound>True</Sound>
           <Subtitle>False</Subtitle>
+          <OpenCaption>False</OpenCaption>
+          <ClosedCaption>False</ClosedCaption>
           <AuxData>False</AuxData>
           <Markers>False</Markers>
+          <Metadata>False</Metadata>
         </CompositionPlaylist>
       </Info>
     </item>

@@ -188,6 +188,7 @@
           "ChannelConfiguration": "Unknown",
           "ChannelCount": 12,
           "ChannelFormat": 0,
+          "ClosedCaption": false,
           "ClosedCaptionLanguage": "Unknown",
           "ContentKind": "test",
           "ContentTitleText": "ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV",
@@ -205,6 +206,7 @@
           "IssueDate": "2018-01-04T11:14:22-00:00",
           "Issuer": "ECLAIR",
           "Markers": false,
+          "Metadata": false,
           "NamingConvention": {
             "AudioType": {
               "Channels": "71",
@@ -274,6 +276,8 @@
               "Value": "UK-U"
             }
           },
+          "OpenCaption": false,
+          "OpenCaptionLanguage": "Unknown",
           "PKLId": "9376cda5-cc7e-49ee-b903-6cbbfa2d2ca0",
           "Picture": true,
           "Precincts": 6,
