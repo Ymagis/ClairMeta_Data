@@ -165,6 +165,7 @@
               }
             ]
           },
+          "AssetsOnDiskSizeBytes": 45691518,
           "AssetsSizeBytes": 45669211,
           "Creator": "ClipsterDCI 5.10.0.5",
           "Id": "4386da5c-be63-4e14-bb33-7ff530613715",
@@ -1241,6 +1242,7 @@
   ],
   "schema": "Interop",
   "size": "43.58 MiB",
+  "size_bytes": 45695552,
   "type": "DCP",
   "volindex_list": [
     {

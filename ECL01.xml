@@ -185,6 +185,7 @@
           </AssetList>
           <Schema>Interop</Schema>
           <AssetsSizeBytes>45669211</AssetsSizeBytes>
+          <AssetsOnDiskSizeBytes>45691518</AssetsOnDiskSizeBytes>
         </AssetMap>
       </Info>
     </item>
@@ -1394,6 +1395,7 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
   <package_type>OV</package_type>
   <path>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV</path>
   <size>43.58 MiB</size>
+  <size_bytes>45695552</size_bytes>
   <count_file>14</count_file>
   <schema>Interop</schema>
   <type>DCP</type>
