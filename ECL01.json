@@ -1062,6 +1062,75 @@
   "kdm_list": [],
   "package_type": "OV",
   "path": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV",
+  "path_naming_convention": {
+    "AudioType": {
+      "Channels": "71",
+      "HearingImpaired": false,
+      "ImmersiveSound": false,
+      "MotionSimulator": false,
+      "SignLanguage": false,
+      "Value": "71",
+      "VisionImpaired": false
+    },
+    "ContentType": {
+      "Dimension": "",
+      "DolbyVision": false,
+      "EclairColor": false,
+      "FrameRate": "",
+      "MasteringLuminance": "",
+      "PreRelease": false,
+      "RedBand": false,
+      "Temporary": false,
+      "TheatreChain": "",
+      "Type": "TST",
+      "Value": "TST",
+      "Version": ""
+    },
+    "Date": {
+      "Value": "20171218"
+    },
+    "Facility": {
+      "Value": "ECL"
+    },
+    "FilmTitle": {
+      "Value": "ECL01-SINGLE-CPL"
+    },
+    "Language": {
+      "AudioLanguage": "EN",
+      "BurnedSubtitle": false,
+      "Caption": false,
+      "Subtitle": false,
+      "SubtitleLanguage": "XX",
+      "SubtitleLanguage2": "",
+      "Value": "EN-XX"
+    },
+    "PackageType": {
+      "Type": "OV",
+      "Value": "OV",
+      "Version": ""
+    },
+    "ProjectorAspectRatio": {
+      "AspectRatio": "S",
+      "ImageAspectRatio": "",
+      "Value": "S"
+    },
+    "Resolution": {
+      "Value": "2K"
+    },
+    "Standard": {
+      "Dimension": "",
+      "Schema": "Interop",
+      "Value": "IOP"
+    },
+    "Studio": {
+      "Value": "DI"
+    },
+    "TerritoryRating": {
+      "LocalRating": "U",
+      "ReleaseTerritory": "UK",
+      "Value": "UK-U"
+    }
+  },
   "pkl_list": [
     {
       "FileName": "PKL_9376cda5-cc7e-49ee-b903-6cbbfa2d2ca0.xml",

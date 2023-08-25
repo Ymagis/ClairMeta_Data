@@ -83,7 +83,7 @@
               </item>
               <item>
                 <Id>9376cda5-cc7e-49ee-b903-6cbbfa2d2ca0</Id>
-                <PackingList>True</PackingList>
+                <PackingList>true</PackingList>
                 <ChunkList>
                   <Chunk>
                     <Path>PKL_9376cda5-cc7e-49ee-b903-6cbbfa2d2ca0.xml</Path>
@@ -219,15 +219,15 @@
                   <Hash>f/L/9z0U4Mqsi2YvTsCyhrHenQU=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>0</CPLEntryPoint>
                   <CPLOutPoint>24</CPLOutPoint>
                   <TimeCodeIn>00:00:00:00</TimeCodeIn>
                   <TimeCodeOut>00:00:01:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_01.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_01.mxf</AbsolutePath>
@@ -236,7 +236,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>dbeb8634-07b5-401a-acbf-a225fd33034f</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -285,7 +285,7 @@
                   <Duration>24</Duration>
                   <Hash>HkBfVBICXMq6bPN5SncysuNR9ug=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>0</CPLEntryPoint>
                   <CPLOutPoint>24</CPLOutPoint>
@@ -300,7 +300,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>9d9955ae-2e96-4e59-bf4a-1ecc3f1b3032</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -337,15 +337,15 @@
                   <Hash>m+4gKpoBfHCNfoH/ex2E8h7Rv9A=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>24</CPLEntryPoint>
                   <CPLOutPoint>48</CPLOutPoint>
                   <TimeCodeIn>00:00:01:00</TimeCodeIn>
                   <TimeCodeOut>00:00:02:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_02.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_02.mxf</AbsolutePath>
@@ -354,7 +354,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>df8db719-064b-4365-b3b5-d242223c81e1</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -403,7 +403,7 @@
                   <Duration>24</Duration>
                   <Hash>Gl9Jm9NJCvXe0ombXyRNSOzEZxE=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>24</CPLEntryPoint>
                   <CPLOutPoint>48</CPLOutPoint>
@@ -418,7 +418,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>d4854955-a95f-43f7-bfd9-3662d7ca341d</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -455,15 +455,15 @@
                   <Hash>w4RuMFB0NNL1/JDFPGKaYdRq9iw=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>48</CPLEntryPoint>
                   <CPLOutPoint>72</CPLOutPoint>
                   <TimeCodeIn>00:00:02:00</TimeCodeIn>
                   <TimeCodeOut>00:00:03:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_03.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_03.mxf</AbsolutePath>
@@ -472,7 +472,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>695c7371-6c06-48d0-aedd-8d67a1d1cb8d</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -521,7 +521,7 @@
                   <Duration>24</Duration>
                   <Hash>jhXm6Jd/Oi+72KEzvmYAZ4/PlSU=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>48</CPLEntryPoint>
                   <CPLOutPoint>72</CPLOutPoint>
@@ -536,7 +536,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>eabdb8b0-1a2d-4229-a53c-709858fbf553</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -573,15 +573,15 @@
                   <Hash>qOguwt+TVrHtXqsPEhMLgOtMeh8=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>72</CPLEntryPoint>
                   <CPLOutPoint>96</CPLOutPoint>
                   <TimeCodeIn>00:00:03:00</TimeCodeIn>
                   <TimeCodeOut>00:00:04:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_04.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_04.mxf</AbsolutePath>
@@ -590,7 +590,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>e72b2670-be95-4ec3-a241-0f512e43535f</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -639,7 +639,7 @@
                   <Duration>24</Duration>
                   <Hash>vd2eGb+N2QqUCqt0ylAyxgk/V1M=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>72</CPLEntryPoint>
                   <CPLOutPoint>96</CPLOutPoint>
@@ -654,7 +654,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>9b16dc4a-2724-445e-93f7-ae8ad1c43448</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -691,15 +691,15 @@
                   <Hash>rpaBkoY0WOGU4I0y+ziyM10MKJA=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>96</CPLEntryPoint>
                   <CPLOutPoint>120</CPLOutPoint>
                   <TimeCodeIn>00:00:04:00</TimeCodeIn>
                   <TimeCodeOut>00:00:05:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_05.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_05.mxf</AbsolutePath>
@@ -708,7 +708,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>6dea0d64-e289-47f8-b97f-06ad41607d2a</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -757,7 +757,7 @@
                   <Duration>24</Duration>
                   <Hash>2shxJH7TG7qi2u13Ugfbw7uBvIs=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>96</CPLEntryPoint>
                   <CPLOutPoint>120</CPLOutPoint>
@@ -772,7 +772,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>e0cb9bbd-3e50-4a37-8a01-63f94e098490</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -809,15 +809,15 @@
                   <Hash>3DnJoQwKbm16r5S7PbBHtt1LM+g=</Hash>
                   <FrameRate>24</FrameRate>
                   <ScreenAspectRatio>2.39</ScreenAspectRatio>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>120</CPLEntryPoint>
                   <CPLOutPoint>144</CPLOutPoint>
                   <TimeCodeIn>00:00:05:00</TimeCodeIn>
                   <TimeCodeOut>00:00:06:00</TimeCodeOut>
                   <TimeCodeDuration>00:00:01:00</TimeCodeDuration>
-                  <Stereoscopic>False</Stereoscopic>
-                  <HighFrameRate>False</HighFrameRate>
+                  <Stereoscopic>false</Stereoscopic>
+                  <HighFrameRate>false</HighFrameRate>
                   <EssenceType>Picture</EssenceType>
                   <Path>ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_06.mxf</Path>
                   <AbsolutePath>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV_06.mxf</AbsolutePath>
@@ -826,7 +826,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>aef38018-b161-4ed1-a7f1-97c3c3a1dd96</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <AspectRatio>2.39</AspectRatio>
@@ -875,7 +875,7 @@
                   <Duration>24</Duration>
                   <Hash>p/byjMB1+/6hLuP0JagJaVPoyGI=</Hash>
                   <Language>en</Language>
-                  <Encrypted>False</Encrypted>
+                  <Encrypted>false</Encrypted>
                   <OutPoint>24</OutPoint>
                   <CPLEntryPoint>120</CPLEntryPoint>
                   <CPLOutPoint>144</CPLOutPoint>
@@ -890,7 +890,7 @@
                     <ProductVersion>asdcplib1.12.51</ProductVersion>
                     <CompanyName>RohdeandSchwarzDVSGmbH</CompanyName>
                     <ProductName>Clipster</ProductName>
-                    <EncryptedEssence>False</EncryptedEssence>
+                    <EncryptedEssence>false</EncryptedEssence>
                     <AssetUUID>2dce3f59-ae4e-4ecc-99c2-e7ba89b27c4c</AssetUUID>
                     <LabelSetType>MXFInterop</LabelSetType>
                     <EditRate>24</EditRate>
@@ -1046,15 +1046,15 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
               <Value>TST</Value>
               <Type>TST</Type>
               <Version/>
-              <Temporary>False</Temporary>
-              <PreRelease>False</PreRelease>
-              <RedBand>False</RedBand>
+              <Temporary>false</Temporary>
+              <PreRelease>false</PreRelease>
+              <RedBand>false</RedBand>
               <TheatreChain/>
               <Dimension/>
               <MasteringLuminance/>
               <FrameRate/>
-              <DolbyVision>False</DolbyVision>
-              <EclairColor>False</EclairColor>
+              <DolbyVision>false</DolbyVision>
+              <EclairColor>false</EclairColor>
             </ContentType>
             <ProjectorAspectRatio>
               <Value>S</Value>
@@ -1066,9 +1066,9 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
               <AudioLanguage>EN</AudioLanguage>
               <SubtitleLanguage>XX</SubtitleLanguage>
               <SubtitleLanguage2/>
-              <Caption>False</Caption>
-              <BurnedSubtitle>False</BurnedSubtitle>
-              <Subtitle>False</Subtitle>
+              <Caption>false</Caption>
+              <BurnedSubtitle>false</BurnedSubtitle>
+              <Subtitle>false</Subtitle>
             </Language>
             <TerritoryRating>
               <Value>UK-U</Value>
@@ -1078,11 +1078,11 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
             <AudioType>
               <Value>71</Value>
               <Channels>71</Channels>
-              <HearingImpaired>False</HearingImpaired>
-              <VisionImpaired>False</VisionImpaired>
-              <SignLanguage>False</SignLanguage>
-              <ImmersiveSound>False</ImmersiveSound>
-              <MotionSimulator>False</MotionSimulator>
+              <HearingImpaired>false</HearingImpaired>
+              <VisionImpaired>false</VisionImpaired>
+              <SignLanguage>false</SignLanguage>
+              <ImmersiveSound>false</ImmersiveSound>
+              <MotionSimulator>false</MotionSimulator>
             </AudioType>
             <Resolution>
               <Value>2K</Value>
@@ -1107,19 +1107,19 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
               <Version/>
             </PackageType>
           </NamingConvention>
-          <DolbyVision>False</DolbyVision>
-          <EclairColor>False</EclairColor>
-          <D-BOX>False</D-BOX>
+          <DolbyVision>false</DolbyVision>
+          <EclairColor>false</EclairColor>
+          <D-BOX>false</D-BOX>
           <EIDR/>
           <TotalDuration>144</TotalDuration>
           <TotalTimeCodeDuration>00:00:06:00</TotalTimeCodeDuration>
           <PKLId>9376cda5-cc7e-49ee-b903-6cbbfa2d2ca0</PKLId>
           <EditRate>24</EditRate>
           <FrameRate>24</FrameRate>
-          <HighFrameRate>False</HighFrameRate>
+          <HighFrameRate>false</HighFrameRate>
           <ScreenAspectRatio>2.39</ScreenAspectRatio>
-          <Stereoscopic>False</Stereoscopic>
-          <Encrypted>False</Encrypted>
+          <Stereoscopic>false</Stereoscopic>
+          <Encrypted>false</Encrypted>
           <DecompositionLevels>5</DecompositionLevels>
           <Precincts>6</Precincts>
           <Resolution>2048x858</Resolution>
@@ -1130,14 +1130,14 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
           <SubtitleLanguage>Unknown</SubtitleLanguage>
           <OpenCaptionLanguage>Unknown</OpenCaptionLanguage>
           <ClosedCaptionLanguage>Unknown</ClosedCaptionLanguage>
-          <Picture>True</Picture>
-          <Sound>True</Sound>
-          <Subtitle>False</Subtitle>
-          <OpenCaption>False</OpenCaption>
-          <ClosedCaption>False</ClosedCaption>
-          <AuxData>False</AuxData>
-          <Markers>False</Markers>
-          <Metadata>False</Metadata>
+          <Picture>true</Picture>
+          <Sound>true</Sound>
+          <Subtitle>false</Subtitle>
+          <OpenCaption>false</OpenCaption>
+          <ClosedCaption>false</ClosedCaption>
+          <AuxData>false</AuxData>
+          <Markers>false</Markers>
+          <Metadata>false</Metadata>
         </CompositionPlaylist>
       </Info>
     </item>
@@ -1394,6 +1394,75 @@ xRRltzy7nibm9fSE8Az7VqDJ8xm14Z2xCoHm7fcDcX8jJj9ISZ7T+cU=</X509Certificate>
   <kdm_list/>
   <package_type>OV</package_type>
   <path>tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV</path>
+  <path_naming_convention>
+    <FilmTitle>
+      <Value>ECL01-SINGLE-CPL</Value>
+    </FilmTitle>
+    <ContentType>
+      <Value>TST</Value>
+      <Type>TST</Type>
+      <Version/>
+      <Temporary>false</Temporary>
+      <PreRelease>false</PreRelease>
+      <RedBand>false</RedBand>
+      <TheatreChain/>
+      <Dimension/>
+      <MasteringLuminance/>
+      <FrameRate/>
+      <DolbyVision>false</DolbyVision>
+      <EclairColor>false</EclairColor>
+    </ContentType>
+    <ProjectorAspectRatio>
+      <Value>S</Value>
+      <AspectRatio>S</AspectRatio>
+      <ImageAspectRatio/>
+    </ProjectorAspectRatio>
+    <Language>
+      <Value>EN-XX</Value>
+      <AudioLanguage>EN</AudioLanguage>
+      <SubtitleLanguage>XX</SubtitleLanguage>
+      <SubtitleLanguage2/>
+      <Caption>false</Caption>
+      <BurnedSubtitle>false</BurnedSubtitle>
+      <Subtitle>false</Subtitle>
+    </Language>
+    <TerritoryRating>
+      <Value>UK-U</Value>
+      <ReleaseTerritory>UK</ReleaseTerritory>
+      <LocalRating>U</LocalRating>
+    </TerritoryRating>
+    <AudioType>
+      <Value>71</Value>
+      <Channels>71</Channels>
+      <HearingImpaired>false</HearingImpaired>
+      <VisionImpaired>false</VisionImpaired>
+      <SignLanguage>false</SignLanguage>
+      <ImmersiveSound>false</ImmersiveSound>
+      <MotionSimulator>false</MotionSimulator>
+    </AudioType>
+    <Resolution>
+      <Value>2K</Value>
+    </Resolution>
+    <Studio>
+      <Value>DI</Value>
+    </Studio>
+    <Date>
+      <Value>20171218</Value>
+    </Date>
+    <Facility>
+      <Value>ECL</Value>
+    </Facility>
+    <Standard>
+      <Value>IOP</Value>
+      <Schema>Interop</Schema>
+      <Dimension/>
+    </Standard>
+    <PackageType>
+      <Value>OV</Value>
+      <Type>OV</Type>
+      <Version/>
+    </PackageType>
+  </path_naming_convention>
   <size>43.58 MiB</size>
   <size_bytes>45695552</size_bytes>
   <count_file>14</count_file>
