@@ -180,6 +180,7 @@
   "count_file": 14,
   "cpl_list": [
     {
+      "CPLType": "OV",
       "FileName": "CPL_ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV.xml",
       "FilePath": "tests/resources/DCP/ECL-SET/ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV/CPL_ECL01-SINGLE-CPL_TST_S_EN-XX_UK-U_71_2K_DI_20171218_ECL_IOP_OV.xml",
       "Info": {
